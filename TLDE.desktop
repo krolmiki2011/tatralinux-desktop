@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=TLDE
+Comment=Desktop Enviroment
+TryExec=awesome
+Exec=awesome
+Type=Application
